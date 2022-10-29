@@ -2,7 +2,7 @@ const settings = {
   "name": "dailyup-frontity",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
+      "url": "https://dailyup.in",
       "title": "Test Frontity Blog",
       "description": "WordPress installation for Frontity development"
     }
@@ -18,12 +18,12 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Career",
+              "/category/career/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "GK",
+              "/category/gk/"
             ],
             [
               "Japan",
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://dailyup.in"
         }
       }
     },
